@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fscowl-2017.01.22.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fscowl-2017.01.22?ref=badge_shield)
+
 Spell Checking Oriented Word Lists (SCOWL)
 Version 2017.01.22
 Sun Jan 22 17:39:13 2017 -0500 [fbc7107]
@@ -707,3 +709,6 @@ The l/ directory contains symbolic links used by the actual scripts.
 
 Finally, the working/ directory is where all the intermittent files go
 that are not specific to one source.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fscowl-2017.01.22.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fscowl-2017.01.22?ref=badge_large)
